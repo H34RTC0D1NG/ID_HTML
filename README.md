@@ -1,1 +1,3 @@
 # Manipulacion-De-ID-s
+
+1. Utilizar el ID de los links de Google Drive para conectarlos via HTML con un Link Especial ... 
